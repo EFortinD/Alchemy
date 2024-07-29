@@ -1,6 +1,6 @@
 body {
 background-color: white;
-color: yellow; 
+color: black; 
 font-family: Arial,Calibri,sans-serif;
 font-size: 100%;
 line-height: 1.5;
@@ -13,6 +13,5 @@ h1 {
 
 li {
   font-size: 80%;
-  line-height: 0.75;
   margin-bottom: 30px
 }
