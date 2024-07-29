@@ -2,7 +2,7 @@ body {
 background-color: white;
 color: yellow; 
 font-family: Arial,Calibri,sans-serif;
-font-size: 24px;
+font-size: 100%;
 line-height: 1.5;
 margin-bottom: 30px;
 }
@@ -12,8 +12,7 @@ h1 {
 }
 
 li {
-  font-family: Arial,sans-serif;
-  font-size: 14px;
-  line-height: 1.5;
+  font-size: 80%;
+  line-height: 0.75;
   margin-bottom: 30px
 }
