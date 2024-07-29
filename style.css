@@ -3,6 +3,13 @@ background-color: white;
 color: black; 
 font-family: Arial,Calibri,sans-serif;
 font-size: 100%;
+margin: 0;
+padding: 0;
+}
+
+ul, ol, li {
+margin: 0;
+padding: 0;
 }
 
 h1 {
