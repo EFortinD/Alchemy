@@ -21,3 +21,8 @@ li {
   line-height: 1.2;
   margin-bottom: 5px;
 }
+
+.legende {
+  font-family:Arial,sans-serif;
+  font-size:11px
+}
