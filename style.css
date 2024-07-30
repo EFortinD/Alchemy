@@ -25,3 +25,12 @@ li {
 .legende {
   font-size: 11px;
 }
+
+a {
+color: blue;
+font-family: Arial,Calibri,sans-serif;
+font-size: 90%;
+}
+a:hover {
+color: orange;
+}
