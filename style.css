@@ -14,6 +14,13 @@ padding: 0;
   text-align: center;
   color: white;
 }
+/* Centered text */
+.centered-left {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 ul, ol, li {
 margin: 0;
