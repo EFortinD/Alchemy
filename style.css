@@ -51,19 +51,22 @@ a:hover {
 color: orange;
 }
 
-.pages{
-  border-width: 1px;
+.pages-titre{
+    border-width: 1px;
   border-style: solid;
   border-color: red;
   margin-right: 70px;
 margin-left: 50px;
 line-height: 1.5;
-}
-
-.pages-titre{
   background-color: DarkSalmon;
 }
 
 .pages-paragraphe{
+    border-width: 1px;
+  border-style: solid;
+  border-color: red;
+  margin-right: 70px;
+margin-left: 50px;
+line-height: 1.5;
   background-color: Gainsboro;
 }
