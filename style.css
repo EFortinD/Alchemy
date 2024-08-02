@@ -3,6 +3,7 @@ background-color: white;
 color: black; 
 font-family: Arial,Calibri,sans-serif;
 font-size: 100%;
+text-align: justify;
 margin-right: 70px;
 margin-left: 50px;
 line-height: 1.5;
@@ -52,13 +53,13 @@ color: orange;
 }
 
 .pages-titre{
-    border-width: 1px;
-  border-style: solid;
-  border-color: red;
-  margin-right: 70px;
+border-width: 1px;
+ border-style: solid;
+ border-color: red;
+margin-right: 70px;
 margin-left: 50px;
 line-height: 1.5;
-  background-color: DarkSalmon;
+background-color: DarkSalmon;
 }
 
 .pages-paragraphe{
