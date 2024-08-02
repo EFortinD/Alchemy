@@ -10,18 +10,12 @@ line-height: 1.5;
 padding: 0;
 }
 
-/* Container holding the image and the text */
-.container {
-  position: relative;
+.imageintro {
+  background-image: url("/Alchemy/image/09-10-HighgateEast_02_2.jpg)";
+  background-size: cover;
+  background-position: relative;
+  height: 300px;
   text-align: center;
-  color: white;
-}
-/* Centered text */
-.centered-left {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 ul, ol, li {
