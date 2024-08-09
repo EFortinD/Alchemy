@@ -69,11 +69,13 @@ background-color: DarkSalmon;
   border-color: red;
   margin-right: 70px;
 margin-left: 50px;
+line-height: 1.5;
+  background-color: Gainsboro;
+  padding: 30px;
+}
 
 .image-responsive {
   max-width: 100%;
   height: auto;
 }
-line-height: 1.5;
-  background-color: Gainsboro;
-}
+
