@@ -2,19 +2,26 @@ body {
 background-color: white;
 color: black; 
 font-family: Arial,Calibri,sans-serif;
-font-size: 100%;
+font-size: 16px;
 text-align: justify;
 margin-right: 70px;
 margin-left: 50px;
 line-height: 1.5;
-padding: 0;
+padding: 30px;
 }
 
-.imageintro {
-  background-image: url("/Alchemy/image/09-10-HighgateEast_02_2.jpg)";
+#imageintro {
+  background-image: url("/Alchemy/image/09-10-HighgateEast_02_2.jpg");
   background-size: cover;
   background-position: relative;
   height: 300px;
+  overflow: hidden;
+}
+
+#imageintro {
+ color: white;
+  font-size: 42px;
+  font-weight: 600;
   text-align: center;
 }
 
