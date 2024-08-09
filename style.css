@@ -11,7 +11,7 @@ padding: 30px;
 }
 
 #imageintro {
-  background-image: url("Alchemy/image/09-10-HighgateEast_02_2.jpg");
+  background-image: url("/Alchemy/image/09-10-HighgateEast_02_2.jpg");
   background-size: cover;
   background-position: relative;
   height: 300px;
@@ -54,11 +54,9 @@ color: orange;
 }
 
 .pages-titre{
-border-width: 1px;
- border-style: solid;
- border-color: red;
-margin-right: 70px;
-margin-left: 50px;
+box-sizing: border-box;
+border: 1px solid red;
+  width: 80%;
 line-height: 1.5;
 background-color: Linen;
 }
