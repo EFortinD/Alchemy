@@ -60,18 +60,16 @@ border-width: 1px;
 margin-right: 70px;
 margin-left: 50px;
 line-height: 1.5;
-background-color: DarkSalmon;
+background-color: Linen;
 }
 
 .pages-paragraphe{
-    border-width: 1px;
-  border-style: solid;
-  border-color: red;
-  margin-right: 70px;
-margin-left: 50px;
+box-sizing: border-box;
+    border: 1px solid red;
+    background-color: LightGray;
+    padding: 30px;
+    width: 80%;
 line-height: 1.5;
-  background-color: Gainsboro;
-  padding: 30px;
 }
 
 .image-responsive {
