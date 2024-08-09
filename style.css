@@ -11,14 +11,14 @@ padding: 30px;
 }
 
 #imageintro {
-  background-image: url("/Alchemy/image/09-10-HighgateEast_02_2.jpg");
+  background-image: url("Alchemy/image/09-10-HighgateEast_02_2.jpg");
   background-size: cover;
   background-position: relative;
   height: 300px;
   overflow: hidden;
 }
 
-#imageintro {
+#titreintro {
  color: white;
   font-size: 42px;
   font-weight: 600;
