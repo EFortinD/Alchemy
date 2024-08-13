@@ -7,7 +7,7 @@ text-align: justify;
 margin-right: 70px;
 margin-left: 50px;
 line-height: 1.5;
-padding: 30px;
+padding: 50px;
 }
 
 #imageintro {
@@ -15,7 +15,9 @@ padding: 30px;
   background-size: cover;
   background-position: relative;
   height: 300px;
+  width: 100%;
   overflow: hidden;
+  padding: 50px;
 }
 
 #titreintro {
