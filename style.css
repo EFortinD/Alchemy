@@ -14,8 +14,8 @@ padding: 50px;
   background-image: url("/Alchemy/image/09-10-HighgateEast_02_2.jpg");
   background-size: cover;
   background-position: relative;
-  height: 300px;
-  width: 100%;
+  height: 100%;
+  width: 600px;
   padding: 50px;
 }
 
@@ -29,13 +29,11 @@ padding: 50px;
 }
 
 #texteintro {
-  padding: 40px;
-  text-align: center;
-  width: 400px;
+  padding: 50px;
+  width: 600px;
     font-size: 16px;
   line-height: 48px;
   margin-top: 60px;
-  padding: 10px 20px;
 
 ul, ol, li {
 margin: 0px 30px 0px 60px;
