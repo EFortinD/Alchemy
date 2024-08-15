@@ -112,3 +112,13 @@ line-height: 1.5;
 a.home {
   color: #4D00FF;
 }
+
+#boite {
+  border: 2px solid red;
+  display: inline-block;
+  height: 200px;
+  margin-top: 4px;
+  padding: 30px auto;
+  text-align: center;
+  width: 215px;
+}  
