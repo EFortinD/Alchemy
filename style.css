@@ -14,9 +14,11 @@ padding: 50px;
   background-image: url("/Alchemy/image/09-10-HighgateEast_02_2.jpg");
   background-size: cover;
   background-position: relative;
-  height: 100%;
-  width: 600px;
+  height: 600px;
+  width: 100%;
   padding: 50px;
+  margin-left: 50px;
+  margin-right: 50px
 }
 
 #titreintro {
@@ -30,11 +32,13 @@ padding: 50px;
 
 #texteintro {
   padding: 50px;
-  width: 600px;
     font-size: 16px;
-  line-height: 48px;
-  margin-top: 60px;
-
+  line-height: 24px;
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right: 50px
+}
+  
 ul, ol, li {
 margin: 0px 30px 0px 60px;
 padding: 0;
