@@ -14,7 +14,7 @@ padding: 50px;
   background-image: url("/Alchemy/image/09-10-HighgateEast_02_2.jpg");
   background-size: cover;
   background-position: relative;
-  height: 600px;
+  height: 500px;
   width: 100%;
   padding: 50px;
   margin-left: 50px;
@@ -113,7 +113,7 @@ a.home {
   color: #4D00FF;
 }
 
-#boite {
+.boite {
   border: 2px solid red;
   display: inline-block;
   height: 200px;
